@@ -8,5 +8,5 @@ Atividade para treinar uso de API.
 
 <div align="center">
   <h3>Vídeo que o professor pediu para gravar</h3>
-  <video width="320" height="240" controls>  <source src="video.mp4" type="video/mp4">  </video>
+  <video width="600" height="900" controls>  <source src="video.mp4" type="video/mp4">  </video>
 </div>
